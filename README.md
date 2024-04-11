@@ -1,9 +1,9 @@
-# Tools Used 
+# :dart: Tools Used :dart:
 Excel - Data Cleaning 
 
 Mysql - Data Transformation And Data Analysis
 
-# Dataset Information 
+# :file_folder:Dataset Information :file_folder:
 invoice_id: A unique identifier for each invoice, likely stored as a string of up to 50 characters.
 
 branch: The branch associated with the transaction, stored as a string of up to 50 characters.
@@ -39,7 +39,7 @@ gross_income: Gross income generated from the transaction, stored as a decimal n
 rating: Customer rating for the transaction, stored as a decimal number with a precision of 2 digits and a scale of 1.
 
 
-# Bussines Question 
+# :chart_with_upwards_trend: Bussines Question :chart_with_upwards_trend:
 1)What is the count of distinct cities in the dataset?
 
 2)For each branch, what is the corresponding city?
